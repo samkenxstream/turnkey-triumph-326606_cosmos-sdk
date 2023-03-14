@@ -8,10 +8,10 @@ require (
 	cosmossdk.io/core v0.6.1-0.20230309163709-87da587416ba
 	cosmossdk.io/depinject v1.0.0-alpha.3
 	cosmossdk.io/log v0.0.0-20230306220716-5e55f56d39d5
-	cosmossdk.io/math v1.0.0-beta.6.0.20230216172121-959ce49135e4
+	cosmossdk.io/math v1.0.0-rc.0
 	cosmossdk.io/store v0.0.0-20230309163709-87da587416ba
 	cosmossdk.io/tools/confix v0.0.0-20230120150717-4f6f6c00021f
-	cosmossdk.io/tools/rosetta v0.2.0
+	cosmossdk.io/tools/rosetta v0.2.1
 	cosmossdk.io/x/evidence v0.1.0
 	cosmossdk.io/x/feegrant v0.0.0-20230117113717-50e7c4a4ceff
 	cosmossdk.io/x/nft v0.0.0-20230113085233-fae3332d62fc
@@ -34,7 +34,7 @@ require (
 	cloud.google.com/go v0.110.0 // indirect
 	cloud.google.com/go/compute v1.18.0 // indirect
 	cloud.google.com/go/compute/metadata v0.2.3 // indirect
-	cloud.google.com/go/iam v0.11.0 // indirect
+	cloud.google.com/go/iam v0.12.0 // indirect
 	cloud.google.com/go/storage v1.29.0 // indirect
 	cosmossdk.io/collections v0.0.0-20230309163709-87da587416ba // indirect
 	cosmossdk.io/errors v1.0.0-beta.7 // indirect
