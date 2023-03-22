@@ -11,7 +11,7 @@ require (
 	github.com/cosmos/cosmos-sdk v0.46.0-beta2.0.20230313124132-b4d769a8a87d
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/pflag v1.0.5
-	google.golang.org/grpc v1.53.0
+	google.golang.org/grpc v1.54.0
 	google.golang.org/protobuf v1.29.1
 	gotest.tools/v3 v3.4.0
 	sigs.k8s.io/yaml v1.3.0
