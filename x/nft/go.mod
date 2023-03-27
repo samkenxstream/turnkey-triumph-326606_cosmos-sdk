@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	cosmossdk.io/api v0.3.1
-	cosmossdk.io/core v0.6.1-0.20230309163709-87da587416ba
+	cosmossdk.io/core v0.6.1
 	cosmossdk.io/depinject v1.0.0-alpha.3
 	cosmossdk.io/errors v1.0.0-beta.7
 	cosmossdk.io/math v1.0.0-rc.0
@@ -136,7 +136,7 @@ require (
 	golang.org/x/sys v0.6.0 // indirect
 	golang.org/x/term v0.6.0 // indirect
 	golang.org/x/text v0.8.0 // indirect
-	google.golang.org/protobuf v1.29.1 // indirect
+	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
