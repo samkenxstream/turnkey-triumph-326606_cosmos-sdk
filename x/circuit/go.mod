@@ -5,7 +5,7 @@ go 1.20
 require (
 	cosmossdk.io/store v0.0.0-20230302163046-da238c555585
 	github.com/cosmos/cosmos-sdk v0.46.0-beta2.0.20230313124132-b4d769a8a87d
-	github.com/cosmos/gogoproto v1.4.6
+	github.com/cosmos/gogoproto v1.4.7
 	github.com/regen-network/gocuke v0.6.2
 	google.golang.org/grpc v1.53.0
 	gotest.tools/v3 v3.4.0
