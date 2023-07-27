@@ -8,7 +8,7 @@ require (
 	cosmossdk.io/core v0.6.1-0.20230309163709-87da587416ba
 	cosmossdk.io/depinject v1.0.0-alpha.3
 	cosmossdk.io/log v0.1.0
-	cosmossdk.io/math v1.0.0-rc.0
+	cosmossdk.io/math v1.0.1
 	cosmossdk.io/store v0.0.0-20230309163709-87da587416ba
 	cosmossdk.io/tools/confix v0.0.0-20230120150717-4f6f6c00021f
 	cosmossdk.io/tools/rosetta v0.2.0
