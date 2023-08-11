@@ -14,7 +14,7 @@ require (
 	github.com/cosmos/iavl v1.0.0-alpha.1
 	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.3 // indirect
-	github.com/hashicorp/golang-lru v0.5.5-0.20210104140557-80c98217689d
+	github.com/hashicorp/golang-lru v1.0.2
 	github.com/spf13/cast v1.5.0
 	github.com/stretchr/testify v1.8.2
 	github.com/tidwall/btree v1.6.0
