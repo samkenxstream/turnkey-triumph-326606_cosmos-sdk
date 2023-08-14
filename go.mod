@@ -35,6 +35,7 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
+	github.com/hashicorp/golang-lru v0.5.5-0.20210104140557-80c98217689d
 	github.com/hdevalence/ed25519consensus v0.1.0
 	github.com/huandu/skiplist v1.2.0
 	github.com/improbable-eng/grpc-web v0.15.0
@@ -53,7 +54,7 @@ require (
 	github.com/tendermint/go-amino v0.16.0
 	golang.org/x/crypto v0.7.0
 	golang.org/x/exp v0.0.0-20230310171629-522b1b587ee0
-	golang.org/x/sync v0.1.0
+	golang.org/x/sync v0.3.0
 	google.golang.org/genproto v0.0.0-20230202175211-008b39050e57
 	google.golang.org/grpc v1.53.0
 	google.golang.org/protobuf v1.29.1
