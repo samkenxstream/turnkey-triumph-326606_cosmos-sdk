@@ -12,7 +12,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/google/go-cmp v0.5.9
 	github.com/iancoleman/strcase v0.2.0
-	github.com/regen-network/gocuke v0.6.2
+	github.com/regen-network/gocuke v0.6.3
 	github.com/stretchr/testify v1.8.2
 	golang.org/x/exp v0.0.0-20230224173230-c95f2b4c22f2
 	google.golang.org/grpc v1.53.0
@@ -23,7 +23,6 @@ require (
 
 require (
 	github.com/DataDog/zstd v1.5.2 // indirect
-	github.com/alecthomas/participle/v2 v2.0.0-alpha7 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/cockroachdb/apd/v3 v3.1.0 // indirect
@@ -32,8 +31,10 @@ require (
 	github.com/cockroachdb/pebble v0.0.0-20230226194802-02d779ffbc46 // indirect
 	github.com/cockroachdb/redact v1.1.3 // indirect
 	github.com/cosmos/gogoproto v1.4.6 // indirect
-	github.com/cucumber/common/gherkin/go/v22 v22.0.0 // indirect
-	github.com/cucumber/common/messages/go/v17 v17.1.1 // indirect
+	github.com/cucumber/common/messages/go/v19 v19.1.2 // indirect
+	github.com/cucumber/gherkin/go/v26 v26.0.3 // indirect
+	github.com/cucumber/messages/go/v21 v21.0.1 // indirect
+	github.com/cucumber/tag-expressions/go/v5 v5.0.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/getsentry/sentry-go v0.18.0 // indirect
