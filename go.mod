@@ -17,7 +17,7 @@ require (
 	github.com/bgentry/speakeasy v0.1.1-0.20220910012023-760eaf8b6816
 	github.com/chzyer/readline v1.5.1
 	github.com/cockroachdb/apd/v2 v2.0.2
-	github.com/cockroachdb/errors v1.9.1
+	github.com/cockroachdb/errors v1.11.1
 	github.com/cometbft/cometbft v0.37.0
 	github.com/cosmos/btcutil v1.0.5
 	github.com/cosmos/cosmos-db v1.0.0-rc.1
@@ -35,6 +35,7 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
+	github.com/hashicorp/golang-lru v0.5.5-0.20210104140557-80c98217689d
 	github.com/hdevalence/ed25519consensus v0.1.0
 	github.com/huandu/skiplist v1.2.0
 	github.com/improbable-eng/grpc-web v0.15.0
@@ -54,7 +55,7 @@ require (
 	golang.org/x/crypto v0.7.0
 	golang.org/x/exp v0.0.0-20230310171629-522b1b587ee0
 	golang.org/x/sync v0.1.0
-	google.golang.org/genproto v0.0.0-20230202175211-008b39050e57
+	google.golang.org/genproto v0.0.0-20230227214838-9b19f0bdc514
 	google.golang.org/grpc v1.53.0
 	google.golang.org/protobuf v1.29.1
 	gotest.tools/v3 v3.4.0
@@ -75,7 +76,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/cockroachdb/logtags v0.0.0-20230118201751-21c54148d20b // indirect
 	github.com/cockroachdb/pebble v0.0.0-20230226194802-02d779ffbc46 // indirect
-	github.com/cockroachdb/redact v1.1.3 // indirect
+	github.com/cockroachdb/redact v1.1.5 // indirect
 	github.com/cometbft/cometbft-db v0.7.0 // indirect
 	github.com/confio/ics23/go v0.9.0 // indirect
 	github.com/cosmos/iavl v0.21.0-alpha.1 // indirect
