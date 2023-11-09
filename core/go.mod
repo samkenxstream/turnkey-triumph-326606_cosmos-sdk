@@ -5,10 +5,10 @@ go 1.20
 require (
 	cosmossdk.io/api v0.3.1
 	cosmossdk.io/depinject v1.0.0-alpha.3
-	cosmossdk.io/math v1.0.0-rc.0
+	cosmossdk.io/math v1.2.0
 	github.com/cosmos/cosmos-db v1.0.0-rc.1
 	github.com/cosmos/cosmos-proto v1.0.0-beta.3
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.4
 	google.golang.org/grpc v1.53.0
 	google.golang.org/protobuf v1.29.1
 	gotest.tools/v3 v3.4.0
